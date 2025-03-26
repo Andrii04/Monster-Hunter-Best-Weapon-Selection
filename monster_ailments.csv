@@ -1,0 +1,69 @@
+base_name_en,defense_down,fireblight,waterblight,thunderblight,iceblight,dragonblight,blastblight,regional,poison,sleep,paralysis,bleed,stun,mud,effluvia
+Great Jagras,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Kulu-Ya-Ku,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Pukei-Pukei,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Barroth,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Jyuratodus,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Tobi-Kadachi,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Anjanath,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Rathian,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Tzitzi-Ya-Ku,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Paolumu,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Great Girros,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Radobaan,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Legiana,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Odogaron,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Rathalos,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Diablos,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Kirin,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False
+Zorah Magdaros,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Dodogama,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+Pink Rathian,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Bazelgeuse,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+Deviljho,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Lavasioth,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Uragaan,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Azure Rathalos,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Black Diablos,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Nergigante,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Teostra,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+Lunastra,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Kushala Daora,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Vaal Hazak,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Kulve Taroth,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Xeno'jiiva,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Beotodus,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Banbaro,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Viper Tobi-Kadachi,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False
+Nightshade Paolumu,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Coral Pukei-Pukei,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Barioth,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Nargacuga,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Glavenus,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tigrex,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Brachydios,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Shrieking Legiana,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Fulgur Anjanath,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Acidic Glavenus,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Ebony Odogaron,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+Velkhana,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Seething Bazelgeuse,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+Blackveil Vaal Hazak,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Namielle,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Savage Deviljho,True,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+Ruiner Nergigante,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Shara Ishvalda,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Zinogre,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Yian Garuga,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Scarred Yian Garuga,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Brute Tigrex,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Gold Rathian,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Silver Rathalos,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Rajang,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Stygian Zinogre,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Frostfang Barioth,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Alatreon,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False
+Fatalis,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Behemoth,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False
+Leshen,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Ancient Leshen,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False

@@ -1,0 +1,83 @@
+name_en,form,alt_description,fire,water,thunder,ice,dragon,poison,sleep,paralysis,blast,stun
+Great Jagras,normal,N/A,3,0,2,2,1,3.0,3.0,3.0,3.0,3.0
+Kulu-Ya-Ku,normal,N/A,2,3,2,2,2,2.0,2.0,2.0,2.0,2.0
+Pukei-Pukei,normal,N/A,2,0,3,2,1,1.0,3.0,3.0,2.0,2.0
+Barroth,normal,N/A,3,0,0,2,1,3.0,2.0,3.0,3.0,1.0
+Barroth,alt,when covered in mud,0,3,0,2,1,0.0,0.0,0.0,0.0,0.0
+Jyuratodus,normal,N/A,1,0,3,1,1,2.0,1.0,2.0,1.0,3.0
+Jyuratodus,alt,when covered in mud,0,3,0,1,1,0.0,0.0,0.0,0.0,0.0
+Tobi-Kadachi,normal,N/A,2,3,0,2,1,3.0,2.0,2.0,2.0,2.0
+Anjanath,normal,N/A,0,3,2,2,2,1.0,2.0,2.0,1.0,2.0
+Rathian,normal,N/A,0,1,2,1,3,1.0,2.0,2.0,1.0,3.0
+Tzitzi-Ya-Ku,normal,N/A,2,2,3,3,2,2.0,2.0,2.0,2.0,2.0
+Paolumu,normal,N/A,3,0,2,1,1,2.0,2.0,2.0,3.0,3.0
+Great Girros,normal,N/A,2,3,0,2,1,2.0,3.0,1.0,2.0,2.0
+Radobaan,normal,N/A,1,1,1,2,3,2.0,1.0,2.0,3.0,2.0
+Legiana,normal,N/A,2,1,3,0,1,3.0,2.0,2.0,2.0,2.0
+Odogaron,normal,N/A,1,1,2,3,0,1.0,2.0,3.0,2.0,2.0
+Rathalos,normal,N/A,0,1,2,1,3,1.0,2.0,2.0,1.0,2.0
+Diablos,normal,N/A,0,2,1,3,2,2.0,2.0,3.0,2.0,1.0
+Kirin,normal,N/A,3,2,0,2,1,1.0,2.0,0.0,2.0,1.0
+Zorah Magdaros,normal,N/A,0,3,1,2,3,0.0,0.0,0.0,0.0,0.0
+Dodogama,normal,N/A,0,2,3,2,1,3.0,2.0,2.0,1.0,2.0
+Pink Rathian,normal,N/A,0,1,2,1,3,1.0,2.0,2.0,1.0,3.0
+Bazelgeuse,normal,N/A,0,1,3,2,2,2.0,2.0,2.0,1.0,1.0
+Deviljho,normal,N/A,2,2,3,1,3,2.0,2.0,2.0,2.0,2.0
+Lavasioth,normal,N/A,0,3,2,2,1,3.0,1.0,2.0,1.0,2.0
+Lavasioth,alt,when hardened,1,2,0,0,1,0.0,0.0,0.0,0.0,0.0
+Uragaan,normal,N/A,0,3,1,2,2,3.0,1.0,2.0,2.0,3.0
+Azure Rathalos,normal,N/A,0,1,1,2,3,1.0,2.0,2.0,1.0,2.0
+Black Diablos,normal,N/A,0,2,1,3,0,2.0,2.0,3.0,2.0,1.0
+Nergigante,normal,N/A,1,1,3,1,2,2.0,2.0,2.0,2.0,2.0
+Teostra,normal,N/A,0,3,1,3,1,2.0,1.0,1.0,1.0,2.0
+Lunastra,normal,N/A,0,1,1,3,2,1.0,1.0,1.0,2.0,2.0
+Kushala Daora,normal,N/A,1,0,3,0,2,3.0,1.0,1.0,3.0,2.0
+Vaal Hazak,normal,N/A,3,0,1,2,3,1.0,1.0,1.0,2.0,2.0
+Kulve Taroth,normal,N/A,0,2,0,3,2,1.0,1.0,1.0,1.0,1.0
+Kulve Taroth,alt,when covered in gold,1,2,3,0,1,0.0,0.0,0.0,0.0,0.0
+Xeno'jiiva,normal,N/A,2,2,2,2,2,3.0,0.0,1.0,2.0,1.0
+Beotodus,normal,N/A,3,1,2,0,0,2.0,2.0,2.0,3.0,2.0
+Banbaro,normal,N/A,2,0,1,0,3,2.0,2.0,2.0,3.0,3.0
+Viper Tobi-Kadachi,normal,N/A,1,0,3,2,1,1.0,2.0,1.0,2.0,2.0
+Nightshade Paolumu,normal,N/A,2,3,1,1,0,2.0,1.0,2.0,2.0,2.0
+Coral Pukei-Pukei,normal,N/A,1,0,2,3,1,3.0,2.0,2.0,2.0,2.0
+Barioth,normal,N/A,3,0,2,0,1,2.0,2.0,2.0,2.0,2.0
+Nargacuga,normal,N/A,2,0,3,1,1,2.0,2.0,2.0,2.0,2.0
+Glavenus,normal,N/A,0,3,1,2,2,2.0,2.0,2.0,2.0,2.0
+Tigrex,normal,N/A,1,0,3,1,2,2.0,2.0,2.0,2.0,2.0
+Brachydios,normal,N/A,0,2,1,3,1,2.0,2.0,2.0,1.0,2.0
+Shrieking Legiana,normal,N/A,3,1,2,0,1,3.0,2.0,2.0,2.0,2.0
+Fulgur Anjanath,normal,N/A,2,2,0,3,1,2.0,2.0,2.0,1.0,2.0
+Fulgur Anjanath,alt,when charged,2,3,0,2,1,0.0,0.0,0.0,0.0,0.0
+Acidic Glavenus,normal,N/A,3,1,2,1,2,2.0,2.0,2.0,2.0,2.0
+Acidic Glavenus,alt,when crystallized,3,1,2,1,1,0.0,0.0,0.0,0.0,0.0
+Ebony Odogaron,normal,N/A,2,3,2,2,1,3.0,2.0,3.0,2.0,2.0
+Velkhana,normal,N/A,3,1,2,0,2,2.0,1.0,1.0,3.0,1.0
+Seething Bazelgeuse,normal,N/A,0,1,2,3,1,2.0,3.0,2.0,1.0,2.0
+Blackveil Vaal Hazak,normal,N/A,2,0,1,1,2,1.0,1.0,1.0,2.0,1.0
+Namielle,normal,N/A,3,0,0,1,2,3.0,1.0,1.0,3.0,2.0
+Savage Deviljho,normal,N/A,2,2,3,1,3,3.0,3.0,3.0,2.0,2.0
+Ruiner Nergigante,normal,N/A,1,1,2,1,3,2.0,2.0,2.0,3.0,1.0
+Shara Ishvalda,normal,N/A,1,2,0,3,1,2.0,0.0,1.0,3.0,1.0
+Shara Ishvalda,alt,uncovered,1,2,0,3,1,2.0,0.0,1.0,2.0,1.0
+Zinogre,normal,N/A,1,2,0,3,1,2.0,2.0,1.0,2.0,2.0
+Yian Garuga,normal,N/A,0,3,0,1,2,1.0,1.0,2.0,3.0,2.0
+Scarred Yian Garuga,normal,N/A,0,3,0,1,2,1.0,1.0,2.0,3.0,2.0
+Brute Tigrex,normal,N/A,0,3,2,1,1,2.0,2.0,2.0,2.0,2.0
+Gold Rathian,normal,N/A,0,2,3,1,0,1.0,2.0,2.0,1.0,2.0
+Silver Rathalos,normal,N/A,0,3,2,1,0,1.0,2.0,2.0,1.0,2.0
+Rajang,normal,N/A,0,1,0,3,0,1.0,1.0,1.0,2.0,1.0
+Stygian Zinogre,normal,N/A,0,0,1,0,0,2.0,2.0,2.0,3.0,2.0
+Stygian Zinogre,alt,emitting light,1,2,3,1,0,0.0,0.0,0.0,0.0,0.0
+Safi'jiiva,normal,N/A,2,2,2,2,2,3.0,1.0,2.0,3.0,2.0
+Safi'jiiva,alt,elderseal efficiency,2,2,2,2,3,0.0,0.0,0.0,0.0,0.0
+Furious Rajang,normal,N/A,0,1,0,3,0,1.0,1.0,1.0,2.0,1.0
+Raging Brachydios,normal,N/A,0,2,1,3,1,2.0,2.0,2.0,1.0,2.0
+Alatreon,normal,fire active,0,2,1,3,1,1.0,1.0,1.0,1.0,1.0
+Alatreon,alt,ice active,3,1,2,0,1,1.0,1.0,1.0,1.0,1.0
+Alatreon,alt,dragon active,1,1,1,1,2,1.0,1.0,1.0,1.0,1.0
+Behemoth,normal,N/A,1,2,1,2,3,2.0,2.0,2.0,2.0,2.0
+Leshen,normal,N/A,3,0,2,1,2,3.0,0.0,2.0,2.0,1.0
+Ancient Leshen,normal,N/A,3,0,2,1,2,3.0,0.0,2.0,2.0,1.0
+Frostfang Barioth,normal,N/A,3,0,2,0,1,2.0,2.0,2.0,2.0,2.0
+Fatalis,normal,N/A,2,1,1,1,3,1.0,1.0,1.0,1.0,0.0

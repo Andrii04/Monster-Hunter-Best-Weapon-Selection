@@ -1,0 +1,257 @@
+base_name_en,part_en,flinch,wound,sever,extract
+Great Jagras,Head,150.0,300.0,0.0,red
+Great Jagras,Body,300.0,0.0,0.0,orange
+Great Jagras,Body (Inflated),120.0,360.0,0.0,orange
+Great Jagras,Forelegs,210.0,210.0,0.0,white
+Great Jagras,Legs,240.0,0.0,0.0,white
+Great Jagras,Tail,270.0,0.0,0.0,green
+Kulu-Ya-Ku,Head,180.0,180.0,0.0,red
+Kulu-Ya-Ku,Forearms,160.0,160.0,0.0,red
+Kulu-Ya-Ku,Body,200.0,0.0,0.0,white
+Kulu-Ya-Ku,Tail,160.0,0.0,0.0,red
+Kulu-Ya-Ku,Rock,0.0,0.0,0.0,orange
+Pukei-Pukei,Head,180.0,360.0,0.0,red
+Pukei-Pukei,Body,300.0,300.0,0.0,orange
+Pukei-Pukei,Left Wing,210.0,210.0,0.0,white
+Pukei-Pukei,Right Wing,210.0,210.0,0.0,white
+Pukei-Pukei,Left Leg,240.0,0.0,0.0,orange
+Pukei-Pukei,Right Leg,240.0,0.0,0.0,orange
+Pukei-Pukei,Tail,220.0,0.0,280.0,green
+Barroth,Head,150.0,0.0,200.0,red
+Barroth,Head (Mud),25.0,25.0,0.0,red
+Barroth,Body,200.0,0.0,0.0,orange
+Barroth,Body (Mud),25.0,25.0,0.0,orange
+Barroth,Forearms,180.0,180.0,0.0,orange
+Barroth,Forearms (Mud),25.0,25.0,0.0,orange
+Barroth,Left Leg,120.0,120.0,0.0,white
+Barroth,Left Leg (Mud),25.0,25.0,0.0,white
+Barroth,Right Leg,120.0,120.0,0.0,white
+Barroth,Right Leg (Mud),25.0,25.0,0.0,white
+Barroth,Tail,200.0,0.0,450.0,green
+Barroth,Tail (Mud),25.0,25.0,0.0,green
+Jyuratodus,Head,100.0,400.0,0.0,red
+Jyuratodus,Head (Mud),100.0,100.0,0.0,red
+Jyuratodus,Body,300.0,300.0,0.0,white
+Jyuratodus,Body (Mud),100.0,300.0,0.0,white
+Jyuratodus,Left Leg,240.0,480.0,0.0,white
+Jyuratodus,Left Leg (Mud),100.0,200.0,0.0,white
+Jyuratodus,Right Leg,240.0,480.0,0.0,white
+Jyuratodus,Right Leg (Mud),100.0,200.0,0.0,white
+Jyuratodus,Tail,100.0,300.0,0.0,orange
+Jyuratodus,Tail (Mud),100.0,100.0,0.0,orange
+Tobi-Kadachi,Head,200.0,400.0,0.0,red
+Tobi-Kadachi,Body,350.0,0.0,0.0,orange
+Tobi-Kadachi,Back,100.0,100.0,0.0,red
+Tobi-Kadachi,Forelegs,200.0,200.0,0.0,white
+Tobi-Kadachi,Hindlegs,200.0,0.0,0.0,white
+Tobi-Kadachi,Tail,160.0,640.0,0.0,red
+Anjanath,Head,150.0,750.0,0.0,red
+Anjanath,Body,350.0,0.0,0.0,orange
+Anjanath,Left Leg,80.0,240.0,0.0,white
+Anjanath,Right Leg,80.0,240.0,0.0,white
+Anjanath,Tail,100.0,0.0,350.0,orange
+Rathian,Head,240.0,480.0,0.0,red
+Rathian,Body,300.0,300.0,0.0,orange
+Rathian,Left Wing,180.0,180.0,0.0,white
+Rathian,Right Wing,180.0,180.0,0.0,white
+Rathian,Left Leg,210.0,0.0,0.0,orange
+Rathian,Right Leg,210.0,0.0,0.0,orange
+Rathian,Tail,200.0,0.0,300.0,green
+Tzitzi-Ya-Ku,Antennae,280.0,560.0,0.0,red
+Tzitzi-Ya-Ku,Head,160.0,0.0,0.0,orange
+Tzitzi-Ya-Ku,Forearms,100.0,0.0,0.0,red
+Tzitzi-Ya-Ku,Body,220.0,0.0,0.0,white
+Tzitzi-Ya-Ku,Tail,100.0,0.0,0.0,orange
+Paolumu,Head,180.0,0.0,0.0,red
+Paolumu,Neck Pouch,300.0,500.0,0.0,red
+Paolumu,Body,300.0,300.0,0.0,orange
+Paolumu,Left Leg,200.0,0.0,0.0,white
+Paolumu,Right Leg,200.0,0.0,0.0,white
+Paolumu,Left Wing,150.0,150.0,0.0,white
+Paolumu,Right Wing,150.0,150.0,0.0,white
+Paolumu,Tail,250.0,250.0,0.0,orange
+Great Girros,Head,210.0,420.0,0.0,red
+Great Girros,Body,360.0,0.0,0.0,orange
+Great Girros,Forearms,240.0,240.0,0.0,white
+Great Girros,Legs,270.0,0.0,0.0,white
+Great Girros,Tail,300.0,0.0,270.0,green
+Radobaan,Head,300.0,0.0,0.0,red
+Radobaan,Head Bone,50.0,100.0,0.0,red
+Radobaan,Body,350.0,0.0,0.0,orange
+Radobaan,Back Bone,40.0,80.0,0.0,orange
+Radobaan,Left Hindleg,150.0,0.0,0.0,white
+Radobaan,Left Hindleg Bone,20.0,40.0,0.0,white
+Radobaan,Right Hindleg,150.0,0.0,0.0,white
+Radobaan,Right Hindleg Bone,20.0,40.0,0.0,white
+Radobaan,Tail,175.0,0.0,350.0,orange
+Legiana,Head,210.0,420.0,0.0,red
+Legiana,Body,300.0,300.0,0.0,orange
+Legiana,Left Wing,210.0,210.0,0.0,white
+Legiana,Right Wing,210.0,210.0,0.0,white
+Legiana,Left Leg,240.0,0.0,0.0,orange
+Legiana,Right Leg,240.0,0.0,0.0,orange
+Legiana,Tail,270.0,0.0,270.0,green
+Odogaron,Head,300.0,600.0,0.0,red
+Odogaron,Body,450.0,0.0,0.0,orange
+Odogaron,Forearms,240.0,240.0,0.0,red
+Odogaron,Legs,270.0,270.0,0.0,white
+Odogaron,Tail,270.0,270.0,540.0,orange
+Rathalos,Head,240.0,480.0,0.0,red
+Rathalos,Body,300.0,300.0,0.0,orange
+Rathalos,Left Wing,220.0,220.0,0.0,white
+Rathalos,Right Wing,220.0,220.0,0.0,white
+Rathalos,Left Leg,190.0,0.0,0.0,orange
+Rathalos,Right Leg,190.0,0.0,0.0,orange
+Rathalos,Tail,200.0,0.0,200.0,green
+Diablos,Head,200.0,0.0,0.0,red
+Diablos,Body,300.0,600.0,0.0,orange
+Diablos,Left Wing,150.0,150.0,0.0,orange
+Diablos,Right Wing,150.0,0.0,0.0,orange
+Diablos,Left Leg,200.0,0.0,0.0,white
+Diablos,Right Leg,200.0,0.0,0.0,white
+Diablos,Tail,300.0,0.0,500.0,red
+Kirin,Head,200.0,0.0,0.0,red
+Kirin,Upper Body,240.0,0.0,0.0,orange
+Kirin,Lower Body,260.0,0.0,0.0,white
+Zorah Magdaros,Head,400.0,400.0,0.0,red
+Zorah Magdaros,Body,800.0,0.0,0.0,orange
+Zorah Magdaros,Chest,500.0,1000.0,0.0,red
+Zorah Magdaros,Left Foreleg,1000.0,0.0,0.0,red
+Zorah Magdaros,Right Foreleg,1000.0,0.0,0.0,red
+Zorah Magdaros,Left Hindleg,1000.0,0.0,0.0,white
+Zorah Magdaros,Right Hindleg,1000.0,0.0,0.0,white
+Zorah Magdaros,Tail,1000.0,0.0,0.0,white
+Zorah Magdaros,Shell,1500.0,0.0,0.0,orange
+Zorah Magdaros,Exhaust Organ (Small),1200.0,1200.0,0.0,orange
+Zorah Magdaros,Exhaust Organ (Large),1500.0,1500.0,0.0,orange
+Zorah Magdaros,Weak Shell,100.0,100.0,0.0,red
+Dodogama,Head,150.0,750.0,0.0,red
+Dodogama,Body,300.0,0.0,0.0,orange
+Dodogama,Forelegs,210.0,210.0,0.0,white
+Dodogama,Legs,240.0,0.0,0.0,white
+Dodogama,Tail,100.0,0.0,270.0,green
+Pink Rathian,Head,240.0,480.0,0.0,red
+Pink Rathian,Body,300.0,300.0,0.0,orange
+Pink Rathian,Left Wing,180.0,180.0,0.0,white
+Pink Rathian,Right Wing,180.0,180.0,0.0,white
+Pink Rathian,Left Leg,210.0,0.0,0.0,orange
+Pink Rathian,Right Leg,210.0,0.0,0.0,orange
+Pink Rathian,Tail,200.0,0.0,400.0,green
+Bazelgeuse,Head,300.0,600.0,0.0,red
+Bazelgeuse,Body,320.0,320.0,0.0,orange
+Bazelgeuse,Legs,240.0,0.0,0.0,white
+Bazelgeuse,Left Wing,180.0,180.0,0.0,white
+Bazelgeuse,Right Wing,180.0,180.0,0.0,white
+Bazelgeuse,Tail,280.0,0.0,500.0,red
+Deviljho,Head,350.0,350.0,0.0,red
+Deviljho,Body,400.0,0.0,0.0,red
+Deviljho,Chest,100.0,100.0,0.0,orange
+Deviljho,Lower Body,400.0,0.0,0.0,orange
+Deviljho,Arms,150.0,0.0,0.0,orange
+Deviljho,Legs,200.0,0.0,0.0,white
+Deviljho,Tail,180.0,0.0,540.0,green
+Lavasioth,Head,100.0,600.0,0.0,red
+Lavasioth,Back,300.0,600.0,0.0,orange
+Lavasioth,Body,100.0,0.0,0.0,orange
+Lavasioth,Left Foot,120.0,480.0,0.0,white
+Lavasioth,Right Foot,120.0,480.0,0.0,white
+Lavasioth,Tail,100.0,400.0,0.0,red
+Uragaan,Head,250.0,250.0,0.0,red
+Uragaan,Neck,200.0,200.0,0.0,red
+Uragaan,Body,500.0,0.0,0.0,orange
+Uragaan,Forearms,200.0,0.0,0.0,orange
+Uragaan,Left Leg,260.0,0.0,0.0,white
+Uragaan,Right Leg,260.0,0.0,0.0,white
+Uragaan,Tail,120.0,120.0,120.0,green
+Azure Rathalos,Head,240.0,480.0,0.0,red
+Azure Rathalos,Body,300.0,300.0,0.0,orange
+Azure Rathalos,Left Wing,220.0,220.0,0.0,white
+Azure Rathalos,Right Wing,220.0,220.0,0.0,white
+Azure Rathalos,Left Leg,190.0,0.0,0.0,orange
+Azure Rathalos,Right Leg,190.0,0.0,0.0,orange
+Azure Rathalos,Tail,200.0,0.0,200.0,green
+Black Diablos,Head,200.0,400.0,0.0,red
+Black Diablos,Body,300.0,300.0,0.0,orange
+Black Diablos,Left Wing,150.0,0.0,0.0,orange
+Black Diablos,Right Wing,150.0,0.0,0.0,orange
+Black Diablos,Left Leg,200.0,0.0,0.0,white
+Black Diablos,Right Leg,200.0,0.0,0.0,white
+Black Diablos,Tail,300.0,0.0,500.0,red
+Nergigante,Horns,130.0,280.0,0.0,orange
+Nergigante,Head,190.0,0.0,0.0,red
+Nergigante,Body,450.0,0.0,0.0,orange
+Nergigante,Left Foreleg,280.0,0.0,0.0,red
+Nergigante,Right Foreleg,280.0,0.0,0.0,red
+Nergigante,Left Hindleg,350.0,0.0,0.0,orange
+Nergigante,Right Hindleg,350.0,0.0,0.0,orange
+Nergigante,Left Wing,180.0,0.0,0.0,white
+Nergigante,Right Wing,180.0,0.0,0.0,white
+Nergigante,Tail,220.0,0.0,450.0,green
+Teostra,Head,200.0,0.0,0.0,red
+Teostra,Body,400.0,0.0,0.0,orange
+Teostra,Forelegs,280.0,0.0,0.0,white
+Teostra,Hindlegs,340.0,0.0,0.0,white
+Teostra,Wings,280.0,280.0,0.0,white
+Teostra,Tail,330.0,0.0,330.0,orange
+Lunastra,Head,200.0,0.0,0.0,red
+Lunastra,Body,400.0,0.0,0.0,orange
+Lunastra,Forelegs,300.0,0.0,0.0,white
+Lunastra,Hindlegs,280.0,0.0,0.0,white
+Lunastra,Wings,280.0,0.0,0.0,white
+Lunastra,Tail,250.0,0.0,500.0,orange
+Kushala Daora,Head,300.0,0.0,0.0,red
+Kushala Daora,Body,100.0,0.0,0.0,orange
+Kushala Daora,Tail,140.0,0.0,400.0,green
+Kushala Daora,Left Legs,120.0,0.0,0.0,orange
+Kushala Daora,Right Legs,120.0,0.0,0.0,orange
+Kushala Daora,Wings,100.0,200.0,0.0,white
+Vaal Hazak,Head,300.0,900.0,0.0,red
+Vaal Hazak,Chest,150.0,0.0,0.0,orange
+Vaal Hazak,Body,600.0,600.0,0.0,orange
+Vaal Hazak,Tail,200.0,0.0,400.0,green
+Vaal Hazak,Left Foreleg,130.0,130.0,0.0,white
+Vaal Hazak,Right Foreleg,130.0,130.0,0.0,white
+Vaal Hazak,Left Hindleg,350.0,0.0,0.0,orange
+Vaal Hazak,Right Hindleg,350.0,0.0,0.0,orange
+Vaal Hazak,Wings,150.0,0.0,0.0,white
+Xeno'jiiva,Head,400.0,800.0,0.0,red
+Xeno'jiiva,Neck,400.0,0.0,0.0,orange
+Xeno'jiiva,Body,800.0,0.0,0.0,orange
+Xeno'jiiva,Chest,150.0,0.0,0.0,red
+Xeno'jiiva,Left Foreleg,300.0,600.0,0.0,white
+Xeno'jiiva,Right Foreleg,300.0,600.0,0.0,white
+Xeno'jiiva,Left Hindleg,150.0,0.0,0.0,orange
+Xeno'jiiva,Right Hindleg,150.0,0.0,0.0,orange
+Xeno'jiiva,Wings,300.0,600.0,0.0,white
+Xeno'jiiva,Tail,350.0,0.0,1050.0,green
+Alatreon,Head,555.0,150.0,0.0,red
+Alatreon,Body,600.0,75.0,0.0,orange
+Alatreon,Wings,375.0,75.0,0.0,white
+Alatreon,Arms,480.0,75.0,0.0,white
+Alatreon,Legs,400.0,75.0,0.0,orange
+Alatreon,Tail,375.0,75.0,365.0,orange
+Behemoth,Horns,500.0,750.0,0.0,orange
+Behemoth,Head,2500.0,0.0,0.0,orange
+Behemoth,Back,2250.0,0.0,0.0,green
+Behemoth,Belly,4500.0,0.0,0.0,green
+Behemoth,Forearms,2250.0,6750.0,0.0,red
+Behemoth,Hindlegs,1650.0,0.0,0.0,white
+Behemoth,Tail,1200.0,0.0,2000.0,orange
+Frostfang Barioth,Head,420.0,0.0,0.0,red
+Frostfang Barioth,Body,400.0,0.0,0.0,orange
+Frostfang Barioth,Left Foreleg,200.0,0.0,0.0,white
+Frostfang Barioth,Right Foreleg,200.0,0.0,0.0,white
+Frostfang Barioth,Left Hindleg,220.0,0.0,0.0,orange
+Frostfang Barioth,Right Hindleg,220.0,0.0,0.0,orange
+Frostfang Barioth,Tail,200.0,0.0,400.0,green
+Fatalis,Head,450.0,0.0,0.0,red
+Fatalis,Neck,500.0,0.0,0.0,red
+Fatalis,Chest,675.0,0.0,0.0,orange
+Fatalis,Back,500.0,0.0,0.0,orange
+Fatalis,Left Foreleg,500.0,0.0,0.0,orange
+Fatalis,Right Foreleg,500.0,0.0,0.0,orange
+Fatalis,Left Hindleg,500.0,0.0,0.0,white
+Fatalis,Right Hindleg,500.0,0.0,0.0,white
+Fatalis,Left Wing,200.0,0.0,0.0,white
+Fatalis,Right Wing,200.0,0.0,0.0,white
+Fatalis,Tail,400.0,0.0,0.0,green
